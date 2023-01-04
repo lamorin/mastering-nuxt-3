@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="box-border">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
